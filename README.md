@@ -23,3 +23,4 @@ The following links are what i used to help develop this simple application
 * https://developer.ibm.com/technologies/java/tutorials/spring-with-db2-via-jpa/
 * https://www.baeldung.com/sql-logging-spring-boot
 * https://www.baeldung.com/jpa-insert
+* https://spring.io/guides/gs/securing-web/
